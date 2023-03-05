@@ -222,4 +222,3 @@ dependencies:
     - tqdm==4.64.1
     - traitlets==5.7.1
     - werkzeug==2.2.2
-prefix: C:\Users\SULIM\anaconda3\envs\yolov7-deepsort
